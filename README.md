@@ -11,3 +11,4 @@ Modified in GitHub.
 
 
 Add short python functions.
+Contribute to this project by adding functions.
